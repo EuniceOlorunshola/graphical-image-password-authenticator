@@ -28,7 +28,8 @@ We based the target audience of our product to companies that store a large amou
 Because our product uses a graphical user interface, it can be more secure than using text passwords. 
 The extra layer of security may be attractive for companies that want that extra security.
 
-#Directions to access demo:
+
+# Directions to access demo:
 1. Download the zip folder
 2. Extract the zip folder
 3. Copy the main project folder graphical-image-password-authenticator-master into your local server either WampServer or Xampp
@@ -42,6 +43,6 @@ The extra layer of security may be attractive for companies that want that extra
 11. Open any browser that works with your local server and go to http://localhost/graphical-image-password-authenticator-master/graphical_pass/index.php
 
 
-#Access our presentation slides that we created to show workflow:
+# Access our presentation slides that we created to show workflow:
 1. Click on documentation to view all 3 of our sprints 
 Each sprint correpsonds to the workflow we provided to get the project done , with diagrams , epics, and zenhub.
