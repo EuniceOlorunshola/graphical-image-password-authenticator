@@ -1,7 +1,7 @@
-# graphical-image-password-authenticator
+# Graphical-Image-Password-Authenticator
 
 # What is a Graphical Image Password Authenticator? 
-A graphical password authenticator is a form of authentication using images rather than letters, digits, or special characters. It is user- friendly and may be more secure.
+A graphical image password authenticator is a form of authentication using images rather than letters, digits, or special characters. It is user- friendly and may be more secure.
 
 # Why use a Graphical Image Password Authenticator?
 
